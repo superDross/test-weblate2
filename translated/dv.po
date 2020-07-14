@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-14 12:23+0000\n"
-"PO-Revision-Date: 2020-07-14 12:24+0000\n"
+"PO-Revision-Date: 2020-07-14 12:42+0000\n"
 "Last-Translator: Weblate Admin <weblate.admin@example.com>\n"
 "Language-Team: Dhivehi <http://weblate.example.com/projects/datum/test/dv/>\n"
 "Language: dv\n"
@@ -25,7 +25,7 @@ msgstr[1] ""
 
 #: modules/user/views_handler_filter_user_name.inc:29
 msgid "Enter a comma separated list of two user names."
-msgstr ""
+msgstr "backwards."
 
 #: modules/user/views_handler_filter_user_name.inc:29
 msgid "Enter a comma separated list of three user names."
