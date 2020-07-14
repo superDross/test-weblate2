@@ -1,6 +1,8 @@
 #: modules/user/views_handler_filter_user_name.inc:29
 msgid "Enter a comma separated list of user names."
 msgstr ""
+comment ""
+access_count 0
 
 #: modules/user/views_handler_filter_user_name.inc:112
 msgid "Unable to find user: @users"
