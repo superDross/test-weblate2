@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.0.0.0.1\n"
+"Report-Msgid-Bugs-To: some.guy@gomoanatthisguy.com\n"
+"POT-Creation-Date: 2020-08-04 13:46:52.554028\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Unknown\n"
+"Language-Team: none\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Child 9"
+msgstr "Child 9"
+
+msgid "upper range"
+msgstr "upper range"
+
+msgid "Please specify any additional signs or symptoms"
+msgstr "Please specify any additional signs or symptoms"
+
+msgid "please leave your mobile number here"
+msgstr "please leave your mobile number here"
+
+msgid "(ระบุชื่อร้าน)"
+msgstr "(ระบุชื่อร้าน)"
+
+msgid "Por favor especificar"
+msgstr "Por favor especificar"
+
+msgid "Meses"
+msgstr "Meses"
+
+msgid "Ristorante/caffè/servizio di consegna  n°6"
+msgstr "Ristorante/caffè/servizio di consegna  n°6"
+
+msgid "Please put in the maximum amount that you are willing to pay"
+msgstr "Please put in the maximum amount that you are willing to pay"
+
+msgid "자세히 상기해 주십시오"
+msgstr "자세히 상기해 주십시오"
+
+msgid "Who from?"
+msgstr "Who from?"
+
+msgid "moooooore"
+msgstr "moooooore"
