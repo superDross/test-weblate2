@@ -15,9 +15,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.1.1\n"
 
-msgid "Child 9"
-msgstr "Child 9"
-
 msgid "upper range"
 msgstr "upper range"
 
